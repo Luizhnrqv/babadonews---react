@@ -14,7 +14,7 @@ Luiz Henrique Viana de Araújo
 
 ## Site publicado
 
-O link do Netlify será adicionado após a publicação.
+https://dulcet-cendol-a83b7e.netlify.app/
 
 ## Como executar
 
