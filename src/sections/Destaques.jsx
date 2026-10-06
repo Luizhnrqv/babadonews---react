@@ -31,6 +31,19 @@ function Destaques() {
         'https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=600&q=85',
       tempo: 'Há 6 horas',
     },
+    {
+      categoria: 'TECNOLOGIA',
+      titulo: 'Inteligência artificial e inovação ganham espaço no mercado',
+      imagem:
+        'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=85',
+      tempo: 'Há 8 horas',
+    },
+    {
+      categoria: 'CULTURA',
+      titulo: 'Conheça mais sobre Lifestyle e descubra o seu.',
+      imagem: '/img/life.png',
+      tempo: 'Há 9 horas',
+    },
   ]
 
   return (
