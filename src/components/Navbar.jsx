@@ -25,6 +25,7 @@ function Navbar() {
 
           <a href="#inicio" className="logo-site">
             <img src="/img/logo.png" alt="Logo Babado News" />
+
             <p className="slogan-site">
               TUDO O QUE IMPORTA, EM UM SÓ LUGAR.
             </p>
@@ -32,7 +33,9 @@ function Navbar() {
 
           <div className="cabecalho-descricao">
             <p>Informação que te acompanha.</p>
+
             <strong>Todos os dias.</strong>
+
             <span className="linha-destaque"></span>
           </div>
         </div>
@@ -58,7 +61,7 @@ function Navbar() {
           >
             <ul className="navbar-nav menu-links">
               <li className="nav-item">
-                <a href="#inicio" className="nav-link ativo">
+                <a href="#inicio" className="nav-link">
                   Início
                 </a>
               </li>
